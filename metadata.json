@@ -1,0 +1,6 @@
+{
+  "name": "Phuc Vuong Portfolio",
+  "description": "High-end portfolio website of Phuc Vuong, a professional video editor and UI/UX developer, built with React, Tailwind CSS, and GSAP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

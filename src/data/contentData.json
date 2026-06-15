@@ -1,0 +1,220 @@
+{
+  "system": {
+    "siteName": "Phúc Vương --Video  Editor",
+    "theme": {
+      "bgColor": "#0A0A0A",
+      "fontFamily": "Inter, sans-serif"
+    }
+  },
+  "hero": {
+    "navLinks": [
+      {
+        "label": "Về Tôi",
+        "anchor": "#about"
+      },
+      {
+        "label": "Kỹ Năng",
+        "anchor": "#skills"
+      },
+      {
+        "label": "Kinh Nghiệm",
+        "anchor": "#experience"
+      },
+      {
+        "label": "Dự Án",
+        "anchor": "#projects"
+      },
+      {
+        "label": "Liên Hệ",
+        "anchor": "#contact"
+      }
+    ],
+    "heading": "phuc vuong",
+    "subheading": "Biến nội dung thô thành kiệt tác điện ảnh tỷ lệ chuyển đổi cao. Sự giao thoa hoàn mỹ giữa kỹ thuật tối ưu và tư duy nghệ thuật hình ảnh.",
+    "portraitUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=1200",
+    "contactCta": "Hợp Tác Toàn Diện",
+    "roles": [
+      "Content Creator",
+      "Social Media",
+      "Viral video"
+    ],
+    "rolePrefix": "Một",
+    "roleSuffix": "Video Editor"
+  },
+  "marquee": {
+    "items": [
+      "Motion Graphics",
+      "Cinematic Editing",
+      "Storytelling",
+      "Map Animation",
+      "Visual Effects",
+      "Color Grading",
+      "Sound Design"
+    ]
+  },
+  "about": {
+    "heading": "Về tôi",
+    "paragraph": "Hello I am Phuc Vuong , Một freelance video editor có lẻ bạn đang tìm kiếm sự sáng tạo trong video của mình có chất riêng hơn đúng không ? Thế thì bạn đã tiềm đúng người rồi đấy, một video editor  kiểm soát tốt nhịp video và thiết kế âm thanh, motion graphic. Tôi tập trung vào việc biến nội dung thành những video có tỷ lệ chuyển đổi cao.",
+    "cards": [
+      {
+        "type": "code",
+        "title": "Nền tảng CNTT",
+        "text": "Sinh viên năm cuối ngành Công nghệ thông tin, tối ưu hóa quy trình làm việc bằng tư duy hệ thống."
+      },
+      {
+        "type": "art",
+        "title": "Tư duy Song hành",
+        "text": "Sự giao thoa hoàn hảo giữa kỹ thuật logic và nghệ thuật sáng tạo visual."
+      }
+    ],
+    "interactiveImg": "/assets/edit-1080.png",
+    "contactCta": "Kết nối với tôi"
+  },
+  "skills": {
+    "heading": "Kỹ Năng Chuyên Môn",
+    "software": [
+      {
+        "name": "Premiere Pro",
+        "percentage": 95,
+        "color": "#0000CC"
+      },
+      {
+        "name": "After Effects",
+        "percentage": 90,
+        "color": "#9900FF"
+      },
+      {
+        "name": "Photoshop",
+        "percentage": 85,
+        "color": "#0099FF"
+      },
+      {
+        "name": "Illustrator",
+        "percentage": 80,
+        "color": "#FF9900"
+      },
+      {
+        "name": "Figma",
+        "percentage": 88,
+        "color": "#FF3366"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Mạng Xã Hội",
+        "desc": "Reels, TikTok, Shorts - Cắt cảnh nhanh, hiệu ứng giữ chân người xem cao."
+      },
+      {
+        "name": "Video Thương Hiệu",
+        "desc": "Quảng bá sản phẩm, kiến tạo màu sắc sang trọng, nâng tầm thương hiệu."
+      },
+      {
+        "name": "Video Phỏng Vấn",
+        "desc": "Talkshow, Podcast - Đồng bộ âm thanh, nhịp điệu mượt mà, chuyên nghiệp."
+      }
+    ],
+    "coreStrengths": [
+      {
+        "title": "Kiểm soát luồng video",
+        "desc": "Tối ưu hóa mạch phim, giữ chân người xem qua từng khung hình."
+      },
+      {
+        "title": "Ý tưởng & Kể chuyện",
+        "desc": "Sắp xếp cấu trúc kịch bản khéo léo, khuấy động cảm xúc tối đa."
+      },
+      {
+        "title": "Thiết kế âm thanh",
+        "desc": "Tích hợp nhạc nền, hiệu ứng foley tinh vi, tạo nhịp điệu cuốn hút."
+      }
+    ]
+  },
+  "experience": {
+    "heading": "Kinh Nghiệm Làm Việc",
+    "milestones": [
+      {
+        "time": "Hiện tại -- Freelance",
+        "role": "Freelance Lead Video Editor",
+        "employer": "Khách hàng quốc tế qua Upwork & Fiverr",
+        "details": "Biên tập video chuyên nghiệp cho khách hàng toàn cầu. Trọng tâm tối ưu hóa: Chuyển đổi lượt xem → Doanh số thực tế. Dự án tiêu biểu: Hợp tác truyền thông thương hiệu cùng hãng thời trang quốc tế Owen Fashion, trực tiếp nâng cao hiệu quả thương mại và tỷ lệ mua hàng trong các chiến dịch ra mắt bộ sưu tập cốt lõi."
+      },
+      {
+        "time": "09/03/2026 – 19/06/2026",
+        "role": "Thực tập sinh ",
+        "employer": "Công ty TNHH Bảo tàng Tarot Việt Nam",
+        "details": "Chịu trách nhiệm toàn bộ quy trình: Từ lên kịch bản định hướng thương hiệu, trực tiếp quay phim phim trường đến hậu kỳ hoàn thiện. Kết quả nổi bật: Thiết kế hoàn thiện 3 video quảng cáo truyền hình giới thiệu nội dung website tarot và phát triển 3 video quảng cáo truyền hình định hình ý tưởng sản phẩm (Dự án AIvatar) thành công xuất sắc."
+      }
+    ]
+  },
+  "projects": {
+    "heading": "Selected Work",
+    "list": [
+      {
+        "number": "01",
+        "category": "Concept Commercial (Tarot Museum Project)",
+        "name": " TVC AIvatar ",
+        "ctaLabel": "Xem Dự Án",
+        "videoUrl": "https://drive.google.com/file/d/1MCcvXUg3l1YBtYHjdN820KIi5Elg92_p/preview",
+        "thumbUrl": "https://images.unsplash.com/photo-1514894780887-121968d00567?auto=format&fit=crop&q=80&w=800",
+        "desc": "Quảng cáo định hình ý tưởng sản phẩm hộp quà ma thuật tinh tế độc quyền Tarot Museum."
+      },
+      {
+        "number": "02",
+        "category": "Cinematic Promo (Owen Fashion Project)",
+        "name": "Owen Fashion ",
+        "ctaLabel": "Xem Dự Án",
+        "videoUrl": "https://drive.google.com/file/d/1J0MlndtZJKerVEJ6lswKOIINFFW03Qa-/preview",
+        "thumbUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&q=80&w=800",
+        "desc": "Chiến dịch video chuyển tải thông điệp lịch lãm, gia tăng tỷ lệ chuyển đổi tệp khách hàng trẻ đột phá."
+      },
+      {
+        "number": "03",
+        "category": "Animation Talking Head & Motion Graphics",
+        "name": "Cinematic Talking Head Showcase",
+        "ctaLabel": "Xem Dự Án",
+        "videoUrl": "./assets/Becomeaeditor  motiongraphic .mp4",
+        "thumbUrl": "https://drive.google.com/file/d/1GyDPiZPyiDPjrzRpigPwgG-PoN94oUlF/view?usp=sharing",
+        "desc": "Tích hợp đồ họa chuyển động đỉnh cao (Motion Graphics) cùng kỹ thuật dựng Talking Head Animation cuốn hút, tối ưu trải nghiệm thị giác và tỷ lệ giữ chân người xem đột phá."
+      },
+      {
+        "number": "04",
+        "category": "Motion Graphics & Kinetic Typography",
+        "name": " Chatbot lịch sử hight light ",
+        "ctaLabel": "Xem Dự Án",
+        "videoUrl": "https://drive.google.com/file/d/1xfe53krAs84ApebRBEWKrUULjO6bCyaV/preview",
+        "thumbUrl": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&q=80&w=800",
+        "desc": "Đồng bộ hóa âm thanh cao cấp kết hợp Kinetic Typography mang lại hiệu ứng thị giác mạnh mẽ cho các chiến dịch quảng cáo trực tuyến."
+      },
+      {
+        "number": "05",
+        "category": "Cinematic Color Grading & Editing",
+        "name": "GPT checker ",
+        "ctaLabel": "Xem Dự Án",
+        "videoUrl": "https://drive.google.com/file/d/1BXAA02IPS3r6OQgjM1qEoCjgx8xMZSae/preview",
+        "thumbUrl": "https://pin.it/7on8IH3Ad",
+        "desc": "Animation GPT checker edit "
+      },
+      {
+        "number": "06",
+        "category": "Sound Design & Visual Storytelling",
+        "name": "Tarrot talk website ",
+        "ctaLabel": "Xem Dự Án",
+        "videoUrl": "https://drive.google.com/file/d/14xEXWBc8XIlYjs-XlbJhjHAcYAWCuNng/preview",
+        "thumbUrl": "https://drive.google.com/file/d/1iFrK9LcTHAodv44MbE07Ao3c0oG95THf/view?usp=sharing",
+        "desc": "Một tác phẩm lôi cuốn kết hợp nhạc Lo-Fi lofi và Sound Design thực tế mô tả nhịp sống thành thị tương lai đầy huyền ảo."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Liên hệ ngay",
+    "subheading": "Sẵn sàng đưa các ý tưởng hình ảnh và chuyển động của bạn sang một tầm cao hoàn toàn khác biệt. Liên hệ để họp bàn kế hoạch ngay hôm nay.",
+    "phone": "0836185040",
+    "email": "phucvuong175@gmail.com",
+    "facebook": "Phúc Vương",
+    "facebookUrl": "https://www.facebook.com/phuc.vuong.583498",
+    "githubUrl": "https://github.com",
+    "youtubeUrl": "https://youtube.com",
+    "tiktokUrl": "https://tiktok.com",
+    "instagramUrl": "https://instagram.com",
+    "ctaLabel": "Gửi thông điệp nâng tầm"
+  }
+}
